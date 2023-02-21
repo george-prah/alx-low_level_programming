@@ -3,14 +3,12 @@
 
 /**
  * main - Entry point
- * _putchar: the character to print
+ * @_putchar: the character to print
  *
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	printf("_putchar\n");
 	return (0);
 }
-
-

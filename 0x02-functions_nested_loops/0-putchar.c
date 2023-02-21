@@ -10,5 +10,7 @@
  */
 int _putchar(char c)
 {
-	return (write(1, &c, 1));
+	char c[] = "_putchar"
+	write(1, c, 8);	
+	return 0;
 }

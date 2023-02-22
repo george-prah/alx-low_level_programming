@@ -1,14 +1,14 @@
 #include "main.h"
 
 /**
- *  main - Prints _putchar as a message.
+ * main - Prints _putchar as a message.
  *
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char x[]= "_putchar";
+	char x[] = "_putchar";
 	int	i;
 	
 	for (i = 0; i <= 7; i++)
